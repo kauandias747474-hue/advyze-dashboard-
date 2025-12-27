@@ -2,9 +2,9 @@
 
 O ADVYZE é um Dashboard focado em performance para Marketing Digital. O objetivo deste software é centralizar métricas complexas (ROAS, CAC, LTV) em uma interface limpa e funcional, permitindo tomadas de decisão rápidas para quem opera tráfego pago.
 
----
 
-## 🛠️ O que foi construído até aqui
+
+ O que foi construído até aqui
 Este projeto foi iniciado em Dezembro de 2025 e utiliza as tecnologias mais modernas de desenvolvimento web:
 
 - HTML5 Semântico:Estrutura focada em acessibilidade e organização.
